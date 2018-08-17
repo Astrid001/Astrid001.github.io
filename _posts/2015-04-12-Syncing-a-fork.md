@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "尹爱双"
-date:   2015-04-12 15:14:54
+date:   2017-04-12 15:14:54
 categories: GitHub
 excerpt: fork 了之后同步，fork了别人的代码，保持远程同步。
 ---
@@ -10,6 +10,7 @@ excerpt: fork 了之后同步，fork了别人的代码，保持远程同步。
 {:toc}
 
 
-## 如何使用搜索引擎
+## 大胖
 
-其实这个。
+
+小胖
