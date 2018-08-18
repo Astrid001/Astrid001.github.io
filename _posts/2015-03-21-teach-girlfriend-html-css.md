@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "小胖的第一篇博客"
+title:  "小胖的第二篇博客"
 date:   2015-03-21 15:14:54
 categories: Bootstrap
 excerpt: Girlfriend learning write code to copy zhihu 仿造知乎zhihu，今天教女朋友编程，仿造知乎做了一个页面，使用了bootstrap, html, css
