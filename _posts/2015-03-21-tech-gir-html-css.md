@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "小胖的第一篇博客"
-date:   2015-03-21 15:14:54
+title:  "小胖的第0篇博客"
+date:   2018-08-18 15:14:54
 categories: Bootstrap
 excerpt: 毛都没有
 ---
