@@ -2,25 +2,26 @@
 layout: page
 title: About
 permalink: /about/
-icon: glyphicon-heart
+icon: heart
+type: page
 ---
 
-### 关于我
-  
+* content
+{:toc}
+
+## 关于我
+
+<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 在校硕士研究生一枚，就读于西安电子科技大学。
 
 说不定以后会对前端感兴趣~~啧
 
----
-
-### 联系我
+## 联系我
 
 * email：**不存在的，这辈子都不会有邮箱的**
 
----
-
-### 关于本站   
+## 关于本站
 
 这个博客主要用于记录一下前端路上的风景。
 
@@ -30,11 +31,12 @@ icon: glyphicon-heart
 2015.9         |  糊涂师兄发给我他自己的博客链接，第一次接触个人搭建博客，当时觉得很神奇，同时很羡慕有一个属于自己的地方记录自己的生活。  
 
 ---
-
 #### 友情链接
 
 [糊涂](http://gaocong.org/blog/) 
 
 ---
 
-只要有空一定会更新的！
+## Comments
+
+{% include comments.html %}
