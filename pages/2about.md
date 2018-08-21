@@ -16,7 +16,7 @@ icon: glyphicon-heart
 
 ### 联系我
 
-* email：[不存在的，这辈子都不会有邮箱的](mailto:{{ site.email }})
+* email：**不存在的，这辈子都不会有邮箱的**
 
 ---
 
